@@ -189,6 +189,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Frostpunk · Updated 2026-11-27 · Shared under the MIT License*
+*Frostpunk · Updated 2026-11-28 · Shared under the MIT License*
 
-<!-- updated 2026-11-27 -->
+<!-- updated 2026-11-28 -->
